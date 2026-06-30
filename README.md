@@ -44,3 +44,12 @@ The dashboard includes:
 * Applied data visualization best practices.
 * Used charts to communicate business insights effectively.
 * Improved data storytelling and dashboard design skills.
+
+
+## Author
+
+**Manas Aswal**
+
+Aspiring Data Analyst | SQL | Excel | Power BI | Python | Data Visualization
+
+GitHub: https://github.com/Manas0028
