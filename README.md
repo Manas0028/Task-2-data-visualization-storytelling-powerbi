@@ -35,7 +35,7 @@ The dashboard includes:
 ## Files Included
 
 * Sales_Dataset (2).csv
-* HorizonTechX_Task-2_Dashboard.pbix
+* Task-2_Dashboard.pbix
 * README.md
 
 ## Learning Outcomes
